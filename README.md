@@ -1,18 +1,18 @@
-# PROJECT_NAME
+# Blood Connection
 > Project Description
 
 ## Connected Repositories
 _**This Project consists of three Repositories:**_ <br>
 - **Official Website**. It can be accessed [HERE](https://bloodconnection.github.io) <br>
-- **PROJECT_NAME Backend**. It can be accessed [HERE](https://github.com/USERNAME/project-name-api) <br>
+- **Blood Connection Backend**. It can be accessed [HERE](https://github.com/BloodConnection/blood-connection-api) <br>
 
 ## Deployments
-The PROJECT_NAME Backend and API, PROJECT_NAME and Smart Player applications are deployed at the following links:
-### PROJECT_NAME API
-> [Vercel Link](https://project-name-api.vercel.app/api/)
+The Blood Connection Backend and API, Blood Connection and Smart Player applications are deployed at the following links:
+### Blood Connection API
+> [Vercel Link](https://blood-connection-api.vercel.app/api/)
 
-### PROJECT_NAME Web Application
-> [Netlify Link](https://project-name.netlify.app/)
+### Blood Connection Web Application
+> [Netlify Link](https://blood-connection.netlify.app/)
 
 
 
@@ -39,7 +39,7 @@ The project was designed by Product_Designer_LINKEDIN with meetings with Product
 
 ## Requirements
 
-To run the PROJECT_NAME API locally, the following requirements must be met:
+To run the Blood Connection API locally, the following requirements must be met:
 
 - Operating System: Any modern operating system (`Windows`, `macOS`, `Linux`)
 - Web Browser: Latest version of `Chrome`, `Firefox`, `Safari`, or `Edge`
@@ -47,12 +47,12 @@ To run the PROJECT_NAME API locally, the following requirements must be met:
 
 ## Installation
 
-To install and set up PROJECT_NAME locally, follow these steps:
+To install and set up Blood Connection locally, follow these steps:
 
 ### Clone
-Clone the PROJECT_NAME repository from [PROJECT_NAME](https://github.com/USERNAME/project-name) with the command:
+Clone the Blood Connection repository from [Blood Connection](https://github.com/BloodConnection/blood-connection) with the command:
 ```
-git clone git@github.com:USERNAME/project-name.git
+git clone git@github.com:BloodConnection/blood-connection.git
 ```
 ### Setup Environment
 Install `Node.js` from [Node.js website](https://nodejs.org/en/download) and configure it on your system.
@@ -70,7 +70,7 @@ npm run dev
 ```
 
 ### Local Server URL
-Access the PROJECT_NAME Application at
+Access the Blood Connection Application at
 ```
 http://localhost:5173/
 ```
@@ -80,13 +80,13 @@ http://localhost:5173/
 ## Code Contributors
 
 👤 **Rao Akif**
-- GitHub: [@USERNAME](https://github.com/USERNAME)
-- Twitter: [@USERNAME](https://twitter.com/USERNAME)
-- LinkedIn: [USER NAME](https://linkedin.com/in/USERNAME)
+- GitHub: [@raoakif](https://github.com/raoakif)
+- Twitter: [@raoakif](https://twitter.com/raoakif)
+- LinkedIn: [Rao Akif](https://linkedin.com/in/raoakif)
 <br>
 
 ## Acknowledgments
-👤 **Project Manager:**   [USER NAME](https://linkedin.com/in/USERNAME). <br><br>
+👤 **Project Manager:**   [Muhammad Awais Hanif](https://linkedin.com/in/muhammadawaishanif). <br><br>
 👤 **Project Designer:**  [USER NAME](https://linkedin.com/in/USERNAME).
   - Thanks to my peers who are always there to offer support.
   - Contributions, issues, and feature requests are welcome!
@@ -95,9 +95,9 @@ http://localhost:5173/
  
 ## Contributing
 
-We welcome contributions from other developers to enhance PROJECT_NAME. To contribute to the project, please follow these guidelines:
+We welcome contributions from other developers to enhance Blood Connection. To contribute to the project, please follow these guidelines:
 
-1. Fork the PROJECT_NAME repository and create a new branch for your feature or bug fix.
+1. Fork the Blood Connection repository and create a new branch for your feature or bug fix.
 2. Make your changes, ensuring they follow the project's coding conventions and best practices.
 3. Write unit tests to cover your code changes and ensure existing tests pass.
 4. Submit a pull request with a clear description of your changes and any relevant information.
@@ -112,4 +112,4 @@ Give a ⭐️ if you like this project!
 
 ## License
 
-PROJECT_NAME is distributed under the [MIT License](./MIT.md). You are free to use, modify, and distribute the project under the terms of this license.
+Blood Connection is distributed under the [MIT License](./MIT.md). You are free to use, modify, and distribute the project under the terms of this license.
