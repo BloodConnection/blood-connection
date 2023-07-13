@@ -3,11 +3,14 @@
 
 ## Connected Repositories
 _**This Project consists of three Repositories:**_ <br>
-- **Official Website**. It can be accessed [HERE](https://bloodconnection.github.io) <br>
+- **Blood Connection Frontend**. It can be accessed [HERE](https://github.com/BloodConnection/blood-connection) <br>
 - **Blood Connection Backend**. It can be accessed [HERE](https://github.com/BloodConnection/blood-connection-api) <br>
 
 ## Deployments
-The Blood Connection Backend and API, Blood Connection and Smart Player applications are deployed at the following links:
+The Blood Connection Official website, Backend and API, Blood Connection application are deployed at the following links:
+### Official Website
+> [BloodConnection Website](https://bloodconnection.github.io) <br>
+
 ### Blood Connection API
 > [Vercel Link](https://blood-connection-api.vercel.app/api/)
 
