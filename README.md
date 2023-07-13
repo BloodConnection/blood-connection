@@ -1,5 +1,5 @@
 # Blood Connection
-> Project Description
+> A Comprehensive Blood Donation platform to promote blood donation and streamline the process.
 
 ## Connected Repositories
 _**This Project consists of three Repositories:**_ <br>
