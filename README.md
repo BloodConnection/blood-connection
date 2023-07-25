@@ -2,7 +2,7 @@
 > A Comprehensive Blood Donation platform to promote blood donation and streamline the process.
 
 ## Connected Repositories
-_**This Project consists of three Repositories:**_ <br>
+_**This Project consists of two Repositories:**_ <br>
 - **Blood Connection Frontend**. It can be accessed [HERE](https://github.com/BloodConnection/blood-connection) <br>
 - **Blood Connection Backend**. It can be accessed [HERE](https://github.com/BloodConnection/blood-connection-api) <br>
 
